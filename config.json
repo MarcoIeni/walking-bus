@@ -1,0 +1,7 @@
+{
+  "threads_number": 8,
+  "absolute_timeout": 3540,
+  "tuning_timeout": 600,
+  "improvement_timeout": 1800,
+  "checking_interval": 40
+}
